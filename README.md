@@ -47,7 +47,7 @@ _________
 
 1. Fork and Clone or download this repository
 ```
-git clone git@github.com:snguyenbui/midterm-decision-maker.git
+git clone git@github.com:devhmac/indecisive.ninja.git
 ```
 2. Navigate to project directory and install NPM dependancies 
 ```
