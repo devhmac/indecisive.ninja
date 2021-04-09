@@ -4,7 +4,7 @@
 
 Indecisive Ninja is a Full-Stack, RESTful Poll Creation Application.
 
-**Created by [Kapil](https://github.com/kapildoppiogroup), [Sunny](https://github.com/snguyenbui) and [Devin](https://github.com/devhmac)**
+**Built in one week by: [Kapil](https://github.com/kapildoppiogroup), [Sunny](https://github.com/snguyenbui) and [Devin](https://github.com/devhmac)**
 
 ## Check it out here @  [indecisive.ninja](http://www.indecisive.ninja/)
 *Hosted on Heroku*
