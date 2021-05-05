@@ -12,7 +12,7 @@ _____
 
 </div>
 
-### This project was built on NodeJS Express, using EJS Templating engine, SCSS & CSS
+### This project was built on NodeJS & Express, using EJS Templating engine, SCSS & CSS and Jquery
 
 * Utilizing API's from Chart JS, Pusher, SendGrid and IP Trace
 
