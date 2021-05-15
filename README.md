@@ -38,7 +38,7 @@ _____
 ### <ins> Vote on polls </ins>
 <img src='./resources/gifs/votepage.gif' width="500">
 
-### <ins> View your results</ins>
+### <ins> View live results</ins>
 <img src='./resources/gifs/votes.gif' width="500">
 
 _________
